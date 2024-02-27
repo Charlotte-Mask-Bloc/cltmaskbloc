@@ -20,6 +20,10 @@ export default defineConfig({
           text: 'Rapid Antigen Test Information',
           link: '/info/rapid-antigen-tests',
         },
+        {
+          text: 'Mask Delivery Information',
+          link: '/info/mask-delivery',
+        },
       ]
     },
   ]
