@@ -13,7 +13,7 @@ export default defineConfig({
       collapsed: false,
       items: [
         {
-          text: 'Why we share masks',
+          text: 'Why We Share Masks',
           link: '/info/why-we-share-masks',
         },
         {
