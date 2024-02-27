@@ -16,6 +16,10 @@ export default defineConfig({
           text: 'Why we share masks',
           link: '/info/why-we-share-masks',
         },
+        {
+          text: 'Rapid Antigen Test Information',
+          link: '/info/rapid-antigen-tests',
+        },
       ]
     },
   ]
