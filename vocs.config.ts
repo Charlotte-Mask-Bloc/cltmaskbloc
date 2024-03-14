@@ -24,6 +24,10 @@ export default defineConfig({
           text: 'Mask Delivery Information',
           link: '/info/mask-delivery',
         },
+        {
+          text: 'Quarintine Info',
+          link: '/info/quarintine-info',
+        },
       ]
     },
   ]
