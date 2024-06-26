@@ -28,6 +28,10 @@ export default defineConfig({
           text: 'Quarantine Info',
           link: '/info/quarantine-info',
         },
+        {
+          text: 'Other Blocs',
+          link: '/info/other-blocs',
+        },
       ]
     },
     {
