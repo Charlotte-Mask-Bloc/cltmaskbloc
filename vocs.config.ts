@@ -30,5 +30,15 @@ export default defineConfig({
         },
       ]
     },
+    {
+      text: 'Calls to Action',
+      collapsed: false,
+      items: [
+        {
+          text: 'Fundraising',
+          link: '/info/fundraising',
+        },
+      ]
+    }
   ]
 })
