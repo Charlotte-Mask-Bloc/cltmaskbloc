@@ -9,24 +9,24 @@ export default defineConfig({
       link: '/home-page',
     },
     {
+      text: 'Why We Share Masks',
+      link: '/info/why-we-share-masks',
+    },
+    {
       text: 'Informational Resources',
       collapsed: false,
       items: [
         {
-          text: 'Why We Share Masks',
-          link: '/info/why-we-share-masks',
+          text: 'General COVID Information',
+          link: '/info/general-covid-information',
         },
         {
           text: 'Rapid Antigen Test Information',
           link: '/info/rapid-antigen-tests',
         },
         {
-          text: 'Mask Delivery Information',
+          text: 'Mask Delivery Script',
           link: '/info/mask-delivery',
-        },
-        {
-          text: 'Quarantine Info',
-          link: '/info/quarantine-info',
         },
         {
           text: 'Other Blocs',
