@@ -10,7 +10,7 @@ export default defineConfig({
     },
     {
       text: 'Why We Share Masks',
-      link: '/info/why-we-share-masks',
+      link: '/why-we-share-masks',
     },
     {
       text: 'Informational Resources',
