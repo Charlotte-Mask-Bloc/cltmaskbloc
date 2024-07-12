@@ -6,7 +6,7 @@ export default defineConfig({
   sidebar: [
     {
       text: 'Home Page',
-      link: '/home-page',
+      link: '/',
     },
     {
       text: 'Why We Share Masks',
