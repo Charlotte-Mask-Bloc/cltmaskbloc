@@ -13,6 +13,16 @@ export default defineConfig({
       link: '/why-we-share-masks',
     },
     {
+      text: 'Calls to Action',
+      collapsed: false,
+      items: [
+        {
+          text: 'Fundraising',
+          link: '/info/fundraising',
+        },
+      ]
+    },
+    {
       text: 'Informational Resources',
       collapsed: false,
       items: [
@@ -31,16 +41,6 @@ export default defineConfig({
         {
           text: 'Other Blocs',
           link: '/info/other-blocs',
-        },
-      ]
-    },
-    {
-      text: 'Calls to Action',
-      collapsed: false,
-      items: [
-        {
-          text: 'Fundraising',
-          link: '/info/fundraising',
         },
       ]
     }
