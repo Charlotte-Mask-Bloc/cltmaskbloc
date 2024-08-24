@@ -13,6 +13,10 @@ export default defineConfig({
       link: '/why-we-share-masks',
     },
     {
+      text: 'Media',
+      link: '/media',
+    },
+    {
       text: 'Calls to Action',
       collapsed: false,
       items: [
