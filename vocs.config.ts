@@ -43,6 +43,10 @@ export default defineConfig({
           link: '/info/mask-delivery',
         },
         {
+          text: 'Out of Service Area Requests',
+          link: '/info/out-of-service-area-requests',
+        },
+        {
           text: 'Other Blocs',
           link: '/info/other-blocs',
         },
