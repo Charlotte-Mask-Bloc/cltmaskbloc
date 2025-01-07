@@ -10,6 +10,7 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
-    "vocs": "latest"
+    "vocs": "latest",
+    "vite-plugin-radar": "^0.9.6"
   }
 }

@@ -1,8 +1,19 @@
 import { defineConfig } from 'vocs'
+import { VitePluginRadar } from 'vite-plugin-radar'
 
 export default defineConfig({
   title: 'CLT Mask Bloc',
   iconUrl: '/favicon.ico',
+  vite: {
+    plugins: [
+      VitePluginRadar({
+        // Google Analytics tag injection
+        analytics: {
+          id: 'G-V4Q1ZTSKZF',
+        }
+      })
+    ],
+  },
   sidebar: [
     {
       text: 'Home Page',
